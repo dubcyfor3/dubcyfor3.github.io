@@ -1,10 +1,10 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# To modify the layout, see https://jekyllrb.com/docs/themes/
+#overriding-theme-defaults
 
 layout: home
 ---
-
 # CHIYUE WEI
 
 Room 4-101, Rohm Building, Tsinghua University, Beijing, 100084, P. R. China    
