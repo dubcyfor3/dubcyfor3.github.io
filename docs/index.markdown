@@ -65,5 +65,5 @@ B. Eng. in Electronic Engineering, Overall GPA: 3.49/4.0
 Performance Analysis Tools: VTune Profiler, likwid, snakeviz, Ramulator, CACTI  
 Programming Languages: C/C++, Python, MATLAB, Verilog   
 Operating Systems: Linux, Windows                
-Version Control System: Git 
+Version Control System: Git  
 English proficiency: TOEFL iBT:106/120, GRE:326/340
