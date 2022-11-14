@@ -15,7 +15,7 @@ Room 4-101, Rohm Building, Tsinghua University, Beijing, 100084, P. R. China
 ---
 
 **Department of Electronic Engineering, Tsinghua University, Beijing, China**  &nbsp; Aug. 2019–Present    
-B. Eng. in Electronic Engineering, Overall GPA: 3.49/4.0    
+B. Eng. in Electronic Engineering, Overall GPA: 3.49/4.0, Major GPA 3.61/4.0    
 <!-- B. Eng. in Electronic Engineeing      -->
 
 ## RESEARCH EXPERIENCES
