@@ -42,7 +42,7 @@ B. Eng. in Electronic Engineering, Overall GPA: 3.49/4.0, Major GPA 3.61/4.0
 
 ---
 
-- Tianyu Fu\*, **Chiyue Wei**\* *et al., CLAP: Locality Aware and Parallel Triangle Counting with Content Addressable Memory*, submitted to DATE 2023.    
+- Tianyu Fu\*, **Chiyue Wei**\* *et al., CLAP: Locality Aware and Parallel Triangle Counting with Content Addressable Memory*, accepted by DATE 2023.    
 \* Both authors contribute equally to this work  
 - Guohao Dai, Zhenhua Zhu, Tianyu Fu, **Chiyue Wei** *et al., DIMMining: Pruning-Efficient and Parallel Graph Mining on Near-Memory-Computing*, accepted by ISCA 2022.  
 
