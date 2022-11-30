@@ -63,7 +63,7 @@ B. Eng. in Electronic Engineering, Overall GPA: 3.49/4.0, Major GPA 3.61/4.0
 
 ---
 
-Performance Analysis Tools: VTune Profiler, LIKWID, SnakeViz, Ramulator, CACTI  
+Performance Analysis Tools: VTune Profiler, LIKWID, SnakeViz, GEM5, Ramulator, CACTI  
 Programming Languages: C/C++, Python, MATLAB, Verilog   
 Operating Systems: Linux, Windows                
 Version Control System: Git  
