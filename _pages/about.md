@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Chiyue Wei"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,17 +9,27 @@ redirect_from:
 
 Chiyue Wei is a Ph.D. student in Electrical and Computer Engineering at Duke University, working under the supervision of Professor Yiran Chen. His research interests lie at the intersection of computer architecture and deep learning. Prior to Duke, he earned his Bachelor's degree in Electronic Engineering from Tsinghua University in 2023, where he conducted research with Professor Yuan Xie and Professor Yu Wang.
 
-======
+
 🔥 News
+------
 
-======
+- [2024/11] 🎉 Our paper "*Prosperity*: Accelerating Spiking Neural Networks via Product Sparsity" is accepted by HPCA 2025.
 
-- [2024/11] 🎉 Our paper "Prosperity: Accelerating Spiking Neural Networks via Product Sparsity" is accepted by HPCA 2025.
 
-======
 📝 Selected Publications
-
-======
+------
+- Prosperity: Accelerating Spiking Neural Networks via Product Sparsity
+Chiyue Wei, Cong Guo, Feng Cheng, Shiyu Li, Hao Yang, Hai Li, Yiran Chen
+IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025 (To Appear)
+- CLAP: Locality Aware and Parallel Triangle Counting with Content Addressable Memory
+Tianyu Fu*, Chiyue Wei*, Zhenhua Zhu, Shang Yang, Zhongming Yu, Guohao Dai, Huazhong Yang, Yu Wang
+Design, Automation and Test in Europe Conference (DATE), 2023
+- DIMMining: Pruning-Efficient and Parallel Graph Mining on Near-Memory-Computing
+Guohao Dai, Zhenhua Zhu, Tianyu Fu, Chiyue Wei, Bangyan Wang, Xiangyu Li, Yuan Xie, Huazhong Yang, Yu Wang
+International Symposium on Computer Architecture (ISCA), 2022
+<!-- - DeSCo: Towards Generalizable and Scalable Deep Subgraph Counting
+Tianyu Fu, Chiyue Wei, Yu Wang, Rex Ying
+ACM International Conference on Web Search and Data Mining (WSDM), 2024 -->
 
 
 
