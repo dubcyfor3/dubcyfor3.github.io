@@ -27,9 +27,7 @@ Design, Automation and Test in Europe Conference (DATE), 2023
 - DIMMining: Pruning-Efficient and Parallel Graph Mining on Near-Memory-Computing
 Guohao Dai, Zhenhua Zhu, Tianyu Fu, Chiyue Wei, Bangyan Wang, Xiangyu Li, Yuan Xie, Huazhong Yang, Yu Wang
 International Symposium on Computer Architecture (ISCA), 2022
-<!-- - DeSCo: Towards Generalizable and Scalable Deep Subgraph Counting
-Tianyu Fu, Chiyue Wei, Yu Wang, Rex Ying
-ACM International Conference on Web Search and Data Mining (WSDM), 2024 -->
+
 
 
 
