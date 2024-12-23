@@ -3,7 +3,7 @@ title: "Dimmining: pruning-efficient and parallel graph mining on near-memory-co
 collection: publications
 category: conferences
 permalink: /publication/2022-06-18-Dimmining
-excerpt: 'This paper is about fixing template issue #693.'
+# excerpt: 'This paper is about fixing template issue #693.'
 date: 2022-06-18
 venue: 'International Symposium on Computer Architecture (ISCA), 2022'
 paperurl: 'http://dubcyfor3.github.io/files/Dimmining.pdf'
