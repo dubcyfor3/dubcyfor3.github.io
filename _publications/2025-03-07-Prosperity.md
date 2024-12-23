@@ -2,12 +2,12 @@
 title: "Prosperity: Accelerating Spiking Neural Networks via Product Sparsity"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-03-07-Prosperity
+permaliank: /publication/2025-03-07-Prosperity
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2025-03-07
 venue: 'IEEE International Symposium on High-Performance Computer Architecture (HPCA)'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/Prosperity.pdf'
+# slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'http://dubcyfor3.github.io/files/Prosperity.pdf'
 citation: 'NA'
 ---
 
