@@ -33,8 +33,8 @@ div.highlighter-rouge, figure.highlight {
     line-height: 1.8;
   }
   .highlighter-rouge{
-    background-color: #3063ba;
-    color: white;
+    background-color: #3063ba !important;
+    color: white !important;
     margin-bottom: 3em;
     padding: 1px 5px 1px 5px;
     font-size: $type-size-7;
