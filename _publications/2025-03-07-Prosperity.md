@@ -5,7 +5,7 @@ category: conferences
 permaliank: /publication/2025-03-07-Prosperity
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2025-03-07
-venue: 'IEEE International Symposium on High-Performance Computer Architecture (HPCA)'
+venue: 'IEEE International Symposium on High-Performance Computer Architecture (To Appear)'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://dubcyfor3.github.io/files/Prosperity.pdf'
 citation: 'NA'
