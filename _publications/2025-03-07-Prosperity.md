@@ -1,7 +1,7 @@
 ---
 title: "Prosperity: Accelerating Spiking Neural Networks via Product Sparsity"
 collection: publications
-category: manuscripts
+category: conferences
 permaliank: /publication/2025-03-07-Prosperity
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2025-03-07
