@@ -32,6 +32,16 @@ div.highlighter-rouge, figure.highlight {
     font-size: $type-size-6;
     line-height: 1.8;
   }
+  .highlighter-rouge{
+    background-color: #3063ba;
+    color: white;
+    margin-bottom: 3em;
+    padding: 1px 5px 1px 5px;
+    font-size: $type-size-7;
+    border: 0px solid $border-color;
+    border-radius: 10px;
+  }
+  
 }
 
 .highlight table td { padding: 5px; }
