@@ -13,7 +13,7 @@ Chiyue Wei is a Ph.D. student in Electrical and Computer Engineering at Duke Uni
 🔥 News
 ------
 
-- [2024/11] 🎉 Our paper "*Prosperity*: Accelerating Spiking Neural Networks via Product Sparsity" is accepted by HPCA 2025.
+- [2024/11] 🎉 Our paper "*Prosperity*: Accelerating Spiking Neural Networks via Product Sparsity" is accepted by **HPCA 2025**.
 
 
 📝 Selected Publications
@@ -21,11 +21,11 @@ Chiyue Wei is a Ph.D. student in Electrical and Computer Engineering at Duke Uni
 - ``HPCA 2025`` **(To Appear)** Prosperity: Accelerating Spiking Neural Networks via Product Sparsity
 **Chiyue Wei**, Cong Guo, Feng Cheng, Shiyu Li, Hao Yang, Hai Li, Yiran Chen
 
-- ``DATE 2023`` **(To Appear)** CLAP: Locality Aware and Parallel Triangle Counting with Content Addressable Memory
-Tianyu Fu*, **Chiyue Wei***, Zhenhua Zhu, Shang Yang, Zhongming Yu, Guohao Dai, Huazhong Yang, Yu Wang
+- ``DATE 2023`` CLAP: Locality Aware and Parallel Triangle Counting with Content Addressable Memory
+Tianyu Fu`*`, **Chiyue Wei**`*`, Zhenhua Zhu, Shang Yang, Zhongming Yu, Guohao Dai, Huazhong Yang, Yu Wang
 
 - ``ISCA 2022`` DIMMining: Pruning-Efficient and Parallel Graph Mining on Near-Memory-Computing
-Guohao Dai, Zhenhua Zhu, Tianyu Fu, **Chiyue Wei**, Bangyan Wang, Xiangyu Li, Yuan Xie, Huazhong Yang, Yu Wang
+Guohao Dai`*`, Zhenhua Zhu`*`, Tianyu Fu, **Chiyue Wei**, Bangyan Wang, Xiangyu Li, Yuan Xie, Huazhong Yang, Yu Wang
 
 
 
