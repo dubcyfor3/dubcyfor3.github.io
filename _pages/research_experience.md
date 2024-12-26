@@ -5,6 +5,8 @@ permalink: /research_experience/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ## Graduate Research Assistant at Duke University
 
 ---
