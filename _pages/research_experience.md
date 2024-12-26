@@ -1,10 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Research Experience"
+permalink: /research_experience/
 author_profile: true
-redirect_from: 
-  - /research_experience/
-  - /research_experience.html
 ---
 
 ## Graduate Research Assistant at Duke University
