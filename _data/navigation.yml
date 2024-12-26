@@ -8,12 +8,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Education"
-    url: /education/
-
-  - title: "Research Experience"
-    url: /research_experience/
-
   # - title: "Talks"
   #   url: /talks/    
 
@@ -26,8 +20,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "Education"
+    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/

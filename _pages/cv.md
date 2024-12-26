@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, Duke University, 2028 (expected)
-* B.S. in GitHub, GitHub University, 2012
+- 2023.08 - 2028.05(expected), Ph.D. in Electrical and Computer Engineering, Duke University
+- 2019.08 - 2023.06, B.Eng in Electronic Engineering, Tsinghua University
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -60,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
