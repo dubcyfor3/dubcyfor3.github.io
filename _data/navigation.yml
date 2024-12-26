@@ -23,5 +23,7 @@ main:
   - title: "Education"
     url: /cv/
     
+  - title: "Research Experience"
+    url: /research_experience/
   # - title: "Guide"
   #   url: /markdown/
