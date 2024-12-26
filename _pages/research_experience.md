@@ -7,7 +7,7 @@ redirect_from:
   - /research_experience.html
 ---
 
-# Graduate Research Assistant at Duke University
+## Graduate Research Assistant at Duke University
 
 ---
 
@@ -47,7 +47,9 @@ redirect_from:
 
 ---
 
-# Research Assistant with Prof. Yuan Xie, University of California, Santa Barbara
+## Research Assistant with Prof. Yuan Xie, University of California, Santa Barbara
+
+--- 
 
 ### A Systolic-Array-Friendly Design for Sparse LU Factorization
 *Jun. 2022 – Jan. 2023*
@@ -58,8 +60,9 @@ redirect_from:
 
 ---
 
-# Research Assistant with Prof. Yu Wang, Tsinghua University
+## Research Assistant with Prof. Yu Wang, Tsinghua University
 
+--- 
 ### Triangle Counting Acceleration with Software–Hardware Co-Design
 *Feb. 2022 – Sept. 2022*
 
