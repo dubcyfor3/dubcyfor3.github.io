@@ -9,7 +9,6 @@ author_profile: true
 
 Academic Services
 ------
-
 - Journal Reviewer, IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI)
 
 - Journal Reviewer, ACM Journal on Emerging Technologies in Computing Systems (JETC)
@@ -18,7 +17,6 @@ Academic Services
 
 Teaching Assistant 
 ------
-
 - Duke ECE661 (Computer Engineering Machine Learning and Deep Neural Nets), Fall 2024
 
 
