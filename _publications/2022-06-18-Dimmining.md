@@ -1,5 +1,5 @@
 ---
-title: "Dimmining: pruning-efficient and parallel graph mining on near-memory-computing"
+title: "DIMMining: Pruning-Efficient and Parallel Graph Mining on Near-Memory-Computing"
 collection: publications
 category: conferences
 permalink: /publication/2022-06-18-Dimmining
