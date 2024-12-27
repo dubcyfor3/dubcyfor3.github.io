@@ -228,6 +228,9 @@ collections:
   research_experience:
     output: true
     permalink: /:collection/:path/
+  services:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -272,6 +275,15 @@ defaults:
   - scope:
       path: ""
       type: research_experience
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _services
+  - scope:
+      path: ""
+      type: services
     values:
       layout: single
       author_profile: true
