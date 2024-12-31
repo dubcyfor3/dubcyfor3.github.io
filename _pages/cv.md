@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-- 2023.08 - 2028.05(expected), Ph.D. in Electrical and Computer Engineering, Duke University
+- 2023.08 - 2028.05 (expected), Ph.D. in Electrical and Computer Engineering, Duke University
 - 2019.08 - 2023.06, B.Eng in Electronic Engineering, Tsinghua University
 
 <!-- Work experience
