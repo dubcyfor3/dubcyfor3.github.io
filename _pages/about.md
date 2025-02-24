@@ -24,7 +24,7 @@ Chiyue Wei is a Ph.D. student in Electrical and Computer Engineering at Duke Uni
 
 - ``DATE 2023`` CLAP: Locality Aware and Parallel Triangle Counting with Content Addressable Memory,
 Tianyu Fu, **Chiyue Wei**, Zhenhua Zhu, Shang Yang, Zhongming Yu, Guohao Dai, Huazhong Yang, Yu Wang
-[![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/thu-nics/CLAP-triangle-counting)
+[![](https://img.shields.io/github/stars/thu-nics/CLAP-triangle-counting?style=social&label=Code+Stars)](https://github.com/thu-nics/CLAP-triangle-counting)
 
 - ``ISCA 2022`` DIMMining: Pruning-Efficient and Parallel Graph Mining on Near-Memory-Computing,
 Guohao Dai, Zhenhua Zhu, Tianyu Fu, **Chiyue Wei**, Bangyan Wang, Xiangyu Li, Yuan Xie, Huazhong Yang, Yu Wang
