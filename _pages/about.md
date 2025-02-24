@@ -7,6 +7,18 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.comment{
+    background: white;
+    color: #BD2A2E;
+    font-size: 12px;
+    padding: 1px 5px 1px 5px;
+    border-radius: 0px;
+    float: left;
+    font-weight: bold;
+}
+</style>
+
 Chiyue Wei is a Ph.D. student in Electrical and Computer Engineering at Duke University, working under the supervision of Professor Yiran Chen. His research interests lie at the intersection of computer architecture and deep learning. Prior to Duke, he earned his Bachelor's degree in Electronic Engineering from Tsinghua University in 2023, where he conducted research with Professor Yuan Xie and Professor Yu Wang.
 
 
