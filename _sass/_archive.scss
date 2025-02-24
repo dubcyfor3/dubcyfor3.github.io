@@ -16,6 +16,7 @@
 
   a {
     text-decoration: underline;
+    color: dodgerblue;
 
     &:hover {
       text-decoration: underline;
@@ -42,6 +43,7 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
+  font-size: $type-size-6;
 
   a + a {
     opacity: 0.5;
@@ -59,7 +61,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
 
   & + p {
     text-indent: 0;
