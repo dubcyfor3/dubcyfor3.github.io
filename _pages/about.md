@@ -20,6 +20,7 @@ Chiyue Wei is a Ph.D. student in Electrical and Computer Engineering at Duke Uni
 ------
 - ``HPCA 2025`` **(To Appear)** Prosperity: Accelerating Spiking Neural Networks via Product Sparsity,
 **Chiyue Wei**, Cong Guo, Feng Cheng, Shiyu Li, Hao Yang, Hai Li, Yiran Chen
+[![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity)
 
 - ``DATE 2023`` CLAP: Locality Aware and Parallel Triangle Counting with Content Addressable Memory,
 Tianyu Fu, **Chiyue Wei**, Zhenhua Zhu, Shang Yang, Zhongming Yu, Guohao Dai, Huazhong Yang, Yu Wang
