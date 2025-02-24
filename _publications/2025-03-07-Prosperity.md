@@ -6,7 +6,7 @@ permaliank: /publication/2025-03-07-Prosperity
 # excerpt: [![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity)
 date: 2025-03-07
 venue: 'IEEE International Symposium on High-Performance Computer Architecture (To Appear)'
-# slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://dubcyfor3.github.io/files/Prosperity.pdf'
 citation: 'NA'
 ---
