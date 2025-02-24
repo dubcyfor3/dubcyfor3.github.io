@@ -1,10 +1,9 @@
 ---
 title: "Prosperity: Accelerating Spiking Neural Networks via Product Sparsity"
-[![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity)
 collection: publications
 category: conferences
 permaliank: /publication/2025-03-07-Prosperity
-# excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: [![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity)
 date: 2025-03-07
 venue: 'IEEE International Symposium on High-Performance Computer Architecture (To Appear)'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
