@@ -5,6 +5,7 @@
 $lighter-gray               : mix(#fff, $gray, 90%);
 $border-radius              : 4px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$code-background-color      : #fafafa;
 
 div.highlighter-rouge, figure.highlight {
   position: relative;
@@ -37,14 +38,14 @@ div.highlighter-rouge, figure.highlight {
     line-height: 1.8;
   }
    .highlighter-rouge {
-     background: #fafafa; // Use the same background color variable
-     color: white;
-     margin-bottom: 3em;
-     padding: 0.1rem 0.3rem; // More consistent padding
-     font-size: $type-size-6; // Match the inline `<code>` font size
-     border: 1px solid $lighter-gray; // Make the border consistent
-     border-radius: $border-radius; // Use the global border-radius variable
-     box-shadow: $box-shadow; // Apply the same shadow effect
+     background: $code-background-color !important;
+     color: white !important;
+     margin-bottom: 3em !important;
+     padding: 0.1rem 0.3rem !important;
+     font-size: $type-size-6 !important;
+     border: 1px solid $lighter-gray !important;
+     border-radius: $border-radius !important;
+     box-shadow: $box-shadow !important;
    
      &:before, 
      &:after {
