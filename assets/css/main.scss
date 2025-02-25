@@ -40,10 +40,22 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-
 code {
-    background-color: #3063ba !important;
-    color: white;
-    padding: 1px 5px;
-    border-radius: 10px;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+  background: #fafafa;
+  border: 1px solid mix(#fff, $gray, 90%);
+  border-radius: 4px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125);
+
+  &:before, &:after {
+    letter-spacing: -0.2em;
+    content: "\00a0"; /* non-breaking space*/
   }
+}
+// code {
+//     background-color: #3063ba !important;
+//     color: white;
+//     padding: 1px 5px;
+//     border-radius: 10px;
+//   }
