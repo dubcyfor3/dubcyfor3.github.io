@@ -25,12 +25,13 @@ Chiyue Wei is a Ph.D. student in Electrical and Computer Engineering at Duke Uni
 🔥 News
 ------
 
+- [2025/03] 🔥 Chiyue Wei presents *Prosperity* in Las Vegas **HPCA 2025**! Presentation slides and video will be released soon.
 - [2024/11] 🎉 Our paper "*Prosperity*: Accelerating Spiking Neural Networks via Product Sparsity" is accepted by **HPCA 2025**.
 
 
 📝 Selected Publications
 ------
-- ``HPCA 2025`` **(To Appear)** Prosperity: Accelerating Spiking Neural Networks via Product Sparsity,
+- ``HPCA 2025`` [Prosperity: Accelerating Spiking Neural Networks via Product Sparsity](https://arxiv.org/abs/2503.03379),
 **Chiyue Wei**, Cong Guo, Feng Cheng, Shiyu Li, Hao Yang, Hai Li, Yiran Chen
 [![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity)
 
