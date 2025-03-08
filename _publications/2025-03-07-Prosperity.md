@@ -7,7 +7,7 @@ excerpt: '[![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=so
 date: 2025-03-07
 venue: 'IEEE International Symposium on High-Performance Computer Architecture (To Appear)'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://dubcyfor3.github.io/files/Prosperity.pdf'
+paperurl: 'https://arxiv.org/abs/2503.03379'
 citation: 'Wei, C., Guo, C., Cheng, F., Li, S., Yang, H., Li, H., & Chen, Y. (2025). Prosperity: Accelerating Spiking Neural Networks via Product Sparsity. ArXiv. https://arxiv.org/abs/2503.03379'
 ---
 
