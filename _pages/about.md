@@ -25,18 +25,25 @@ Chiyue Wei is a Ph.D. student in Electrical and Computer Engineering at Duke Uni
 🔥 News
 ------
 
+- [2025/03] 🎉🎉🎉 Three papers accepted by **ISCA 2025**! Topics include acceleration for Spiking Neural Networks, General Matrix Multiplications, and Large Language Models.
 - [2025/03] 🔥 Chiyue Wei presents *Prosperity* at **HPCA 2025** in Las Vegas! Presentation slides and video will be available soon.
 - [2024/11] 🎉 Our paper "*Prosperity*: Accelerating Spiking Neural Networks via Product Sparsity" is accepted by **HPCA 2025**.
 
 
 📝 Selected Publications
 ------
+- ``ISCA 2025`` Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks, **Chiyue Wei***, Bowen Duan*, Cong Guo, Jingyang Zhang, Qingyue Song, Hai Li, Yiran Chen
+
+- ``ISCA 2025`` Transitive Array: An Efficient GEMM Accelerator with Result Reuse, Cong Guo, **Chiyue Wei**, Jiaming Tang, Bowen Duan, Song Han, Hai Li, Yiran Chen
+
+- ``ISCA 2025`` Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression, Feng Cheng, Cong Guo, Chiyue Wei, Junyao Zhang, Changchun Zhou, Edward Hanson, Jiaqi Zhang, Xiaoxiao Liu, Hai Li, Yiran Chen
+
 - ``HPCA 2025`` [Prosperity: Accelerating Spiking Neural Networks via Product Sparsity](https://arxiv.org/abs/2503.03379),
 **Chiyue Wei**, Cong Guo, Feng Cheng, Shiyu Li, Hao Yang, Hai Li, Yiran Chen
 [![](https://img.shields.io/github/stars/dubcyfor3/Prosperity?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Prosperity)
 
 - ``DATE 2023`` [CLAP: Locality Aware and Parallel Triangle Counting with Content Addressable Memory](https://ieeexplore.ieee.org/abstract/document/10136997),
-Tianyu Fu, **Chiyue Wei**, Zhenhua Zhu, Shang Yang, Zhongming Yu, Guohao Dai, Huazhong Yang, Yu Wang
+Tianyu Fu*, **Chiyue Wei***, Zhenhua Zhu, Shang Yang, Zhongming Yu, Guohao Dai, Huazhong Yang, Yu Wang
 [![](https://img.shields.io/github/stars/thu-nics/CLAP-triangle-counting?style=social&label=Code+Stars)](https://github.com/thu-nics/CLAP-triangle-counting)
 
 - ``ISCA 2022`` [DIMMining: Pruning-Efficient and Parallel Graph Mining on Near-Memory-Computing](https://dl.acm.org/doi/abs/10.1145/3470496.3527388),
