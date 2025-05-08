@@ -13,6 +13,8 @@ Academic Services
 
 - Journal Reviewer, ACM Journal on Emerging Technologies in Computing Systems (JETC)
 
+- Artifact Evaluation Committee Member, 2025 ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+
 - Artifact Evaluation Committee Member, 2025 IEEE International Symposium on High-Performance Computer Architecture (HPCA)
 
 Teaching Assistant 
