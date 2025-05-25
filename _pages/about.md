@@ -24,6 +24,7 @@ Chiyue Wei is a Ph.D. student in Electrical and Computer Engineering at Duke Uni
 
 🔥 News
 ------
+- [2025/05] 🎉 I’m excited to start my summer internship at <span style="color:green;">NVIDIA</span>, focusing on **LLM inference framework optimization** within the Deep Learning Frameworks team.
 
 - [2025/03] 🎉🎉🎉 **Three** papers accepted by **ISCA 2025**! Topics include acceleration for Spiking Neural Networks, General Matrix Multiplications, and Large Language Models.
 - [2025/03] 🔥 Chiyue Wei presents *Prosperity* at **HPCA 2025** in Las Vegas! Presentation slides and video will be available soon.
