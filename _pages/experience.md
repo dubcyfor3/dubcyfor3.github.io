@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ------
-- 2025.05 - 2025.08 Deep Learning Intern, Enterprise Products, supervised by Zihao Ye, Pavani Majety, Kushan Ahmadian, Cliff Woolley
+- 2025.05 - 2025.08, Deep Learning Intern, Enterprise Products, supervised by Zihao Ye, Pavani Majety, Kushan Ahmadian, Cliff Woolley
 
 - 2023.09 - Now, Graduate Research Assistant, Department of ECE, supervised by Prof. Yiran Chen, Duke University
 
