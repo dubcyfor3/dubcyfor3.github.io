@@ -17,6 +17,10 @@ Academic Services
 
 - Artifact Evaluation Committee Member, 2025 IEEE International Symposium on High-Performance Computer Architecture (HPCA)
 
+- Artifact Evaluation Committee Member, 2025 USENIX Symposium on Operating Systems Design and Implementation (OSDI)
+
+- Artifact Evaluation Committee Member, 2025 USENIX Annual Technical Conference (ATC)
+
 Teaching Assistant 
 ------
 - Duke ECE661 (Computer Engineering Machine Learning and Deep Neural Nets), Fall 2024
