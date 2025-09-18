@@ -24,20 +24,24 @@ Chiyue Wei is a Ph.D. student in Electrical and Computer Engineering at Duke Uni
 
 🔥 News
 ------
+- [2025/08] Check out our work DPad, a training-free acceleration method for **Diffusion LLMs**, now available on on [arXiv](https://arxiv.org/abs/2508.14148)!
+- [2025/08] Wrapped up my internship at NVIDIA, where I worked on the **FlashInfer** project. I developed high-performance and customizable attention kernels with **CuTe DSL**, optimized for Blackwell GPUs.
+- [2025/06] Honored to be named a **DAC 2025 Young Fellow**.
+- [2025/06] Excited that our works Phi, Transitive Array, and Ecco were presented at **ISCA 2025**, check out the slides for [Phi](http://dubcyfor3.github.io/files/Phi_ISCA2025.pdf).
 - [2025/05] 🎉 I’m excited to start my summer internship at <span style="color:green;">NVIDIA</span>, focusing on **LLM inference framework optimization** within the Deep Learning Frameworks team.
 
 - [2025/03] 🎉🎉🎉 **Three** papers accepted by **ISCA 2025**! Topics include acceleration for Spiking Neural Networks, General Matrix Multiplications, and Large Language Models.
-- [2025/03] 🔥 Chiyue Wei presents *Prosperity* at **HPCA 2025** in Las Vegas! Check out presentation slides and [video](https://drive.google.com/file/d/1V4n_Hv-1amCCZpIMWTX0venCL3rlbRPF/view?usp=sharing).
+- [2025/03] 🔥 I presents *Prosperity* at **HPCA 2025** in Las Vegas! Check out presentation [slides](http://dubcyfor3.github.io/files/Prosperity_HPCA2025.pdf) and [video](https://drive.google.com/file/d/1V4n_Hv-1amCCZpIMWTX0venCL3rlbRPF/view?usp=sharing).
 - [2024/11] 🎉 Our paper "*Prosperity*: Accelerating Spiking Neural Networks via Product Sparsity" is accepted by **HPCA 2025**.
 
 
 📝 Selected Publications
 ------
-- ``ISCA 2025`` Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks, **Chiyue Wei***, Bowen Duan*, Cong Guo, Jingyang Zhang, Qingyue Song, Hai Li, Yiran Chen
+- ``ISCA 2025`` [Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks](https://arxiv.org/abs/2505.10909), **Chiyue Wei**, Bowen Duan, Cong Guo, Jingyang Zhang, Qingyue Song, Hai Li, Yiran Chen
 
-- ``ISCA 2025`` Transitive Array: An Efficient GEMM Accelerator with Result Reuse, Cong Guo, **Chiyue Wei**, Jiaming Tang, Bowen Duan, Song Han, Hai Li, Yiran Chen
+- ``ISCA 2025`` [Transitive Array: An Efficient GEMM Accelerator with Result Reuse](https://arxiv.org/abs/2504.16339), Cong Guo, **Chiyue Wei**, Jiaming Tang, Bowen Duan, Song Han, Hai Li, Yiran Chen
 
-- ``ISCA 2025`` Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression, Feng Cheng, Cong Guo, **Chiyue Wei**, Junyao Zhang, Changchun Zhou, Edward Hanson, Jiaqi Zhang, Xiaoxiao Liu, Hai Li, Yiran Chen
+- ``ISCA 2025`` [Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression](https://arxiv.org/abs/2505.06901), Feng Cheng, Cong Guo, **Chiyue Wei**, Junyao Zhang, Changchun Zhou, Edward Hanson, Jiaqi Zhang, Xiaoxiao Liu, Hai Li, Yiran Chen
 
 - ``HPCA 2025`` [Prosperity: Accelerating Spiking Neural Networks via Product Sparsity](https://arxiv.org/abs/2503.03379),
 **Chiyue Wei**, Cong Guo, Feng Cheng, Shiyu Li, Hao Yang, Hai Li, Yiran Chen
