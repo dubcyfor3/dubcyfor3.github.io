@@ -23,8 +23,8 @@ main:
   - title: "Education"
     url: /cv/
     
-  - title: "Research Experience"
-    url: /research_experience/
+  - title: "Experience"
+    url: /experience/
 
   - title: "Services"
     url: /services/

@@ -225,7 +225,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  research_experience:
+  experience:
     output: true
     permalink: /:collection/:path/
   services:
@@ -271,10 +271,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research_experience
+  # _experience
   - scope:
       path: ""
-      type: research_experience
+      type: experience
     values:
       layout: single
       author_profile: true
