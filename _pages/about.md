@@ -24,6 +24,7 @@ Chiyue Wei is a Ph.D. student in Electrical and Computer Engineering at Duke Uni
 
 🔥 News
 ------
+- [2025/11] 🎉🎉 Two papers accepted to **HPCA 2026**! One of them features our work *Focus*: A Streaming Concentration Architecture for Efficient Vision-Language Models. Paper and code will be released soon.
 - [2025/08] Check out our work DPad, a training-free acceleration method for **Diffusion LLMs**, now available on on [arXiv](https://arxiv.org/abs/2508.14148)!
 - [2025/08] Wrapped up my internship at NVIDIA, where I worked on the **FlashInfer** project. I developed high-performance and customizable attention kernels with **CuTe DSL**, optimized for Blackwell GPUs.
 - [2025/06] Honored to be named a **DAC 2025 Young Fellow**.
@@ -37,6 +38,11 @@ Chiyue Wei is a Ph.D. student in Electrical and Computer Engineering at Duke Uni
 
 📝 Selected Publications
 ------
+
+- ``HPCA 2026`` Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models, **Chiyue Wei**, Cong Guo, Junyao Zhang, Haoxuan Shan, Yifan Xu, Ziyue Zhang, Yudong Liu, Qinsi Wang, Changchun Zhou, Hai “Helen” Li, Yiran Chen
+
+- ``HPCA 2026`` [FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://arxiv.org/abs/2511.07665), Yuzhe Fu, Changchun Zhou, Hancheng Ye, Bowen Duan, Qiyu Huang, **Chiyue Wei**, Cong Guo, Hai “Helen” Li, Yiran Chen
+
 - ``ISCA 2025`` [Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks](https://arxiv.org/abs/2505.10909), **Chiyue Wei**, Bowen Duan, Cong Guo, Jingyang Zhang, Qingyue Song, Hai Li, Yiran Chen
 
 - ``ISCA 2025`` [Transitive Array: An Efficient GEMM Accelerator with Result Reuse](https://arxiv.org/abs/2504.16339), Cong Guo, **Chiyue Wei**, Jiaming Tang, Bowen Duan, Song Han, Hai Li, Yiran Chen
