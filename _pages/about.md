@@ -41,8 +41,6 @@ Chiyue Wei is a Ph.D. student in Electrical and Computer Engineering at Duke Uni
 
 - ``HPCA 2026`` Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models, **Chiyue Wei**, Cong Guo, Junyao Zhang, Haoxuan Shan, Yifan Xu, Ziyue Zhang, Yudong Liu, Qinsi Wang, Changchun Zhou, Hai “Helen” Li, Yiran Chen
 
-- ``HPCA 2026`` [FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://arxiv.org/abs/2511.07665), Yuzhe Fu, Changchun Zhou, Hancheng Ye, Bowen Duan, Qiyu Huang, **Chiyue Wei**, Cong Guo, Hai “Helen” Li, Yiran Chen
-
 - ``ISCA 2025`` [Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks](https://arxiv.org/abs/2505.10909), **Chiyue Wei**, Bowen Duan, Cong Guo, Jingyang Zhang, Qingyue Song, Hai Li, Yiran Chen
 
 - ``ISCA 2025`` [Transitive Array: An Efficient GEMM Accelerator with Result Reuse](https://arxiv.org/abs/2504.16339), Cong Guo, **Chiyue Wei**, Jiaming Tang, Bowen Duan, Song Han, Hai Li, Yiran Chen
