@@ -24,7 +24,9 @@ Chiyue Wei is a Ph.D. student in Electrical and Computer Engineering at Duke Uni
 
 🔥 News
 ------
-- [2025/11] 🎉🎉 Two papers accepted to **HPCA 2026**! One of them features our work *Focus*: A Streaming Concentration Architecture for Efficient Vision-Language Models. Paper and code will be released soon.
+- [2026/06] 🚀 Excited to share our latest work on **Diffusion LLM serving**, *Optimus*: Elastic Decoding for Efficient Diffusion LLM Serving, delivering up to 6.1× throughput gain over autoregressive decoding. Check out the [paper](https://arxiv.org/abs/2605.24832) and [code](https://github.com/dubcyfor3/Optimus).
+- [2026/03] 🎉🎉 Our work *EVA*: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture is accepted to **ISCA 2026**! Check out the [paper](https://arxiv.org/abs/2605.24144) and [code](https://github.com/dbw6/Eva).
+- [2025/11] 🎉🎉 Two papers accepted to **HPCA 2026**! One of them features our work *Focus*: A Streaming Concentration Architecture for Efficient Vision-Language Models, now a 🏆 **Best Paper Nominee**! Check out the [paper](https://arxiv.org/abs/2512.14661) and [code](https://github.com/dubcyfor3/Focus).
 - [2025/08] Check out our work DPad, a training-free acceleration method for **Diffusion LLMs**, now available on on [arXiv](https://arxiv.org/abs/2508.14148)!
 - [2025/08] Wrapped up my internship at NVIDIA, where I worked on the **FlashInfer** project. I developed high-performance and customizable attention kernels with **CuTe DSL**, optimized for Blackwell GPUs.
 - [2025/06] Honored to be named a **DAC 2025 Young Fellow**.
@@ -39,7 +41,14 @@ Chiyue Wei is a Ph.D. student in Electrical and Computer Engineering at Duke Uni
 📝 Selected Publications
 ------
 
-- ``HPCA 2026`` Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models, **Chiyue Wei**, Cong Guo, Junyao Zhang, Haoxuan Shan, Yifan Xu, Ziyue Zhang, Yudong Liu, Qinsi Wang, Changchun Zhou, Hai “Helen” Li, Yiran Chen
+- ``HPCA 2026`` ``🏆 Best Paper Nominee`` [Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://arxiv.org/abs/2512.14661), **Chiyue Wei**, Cong Guo, Junyao Zhang, Haoxuan Shan, Yifan Xu, Ziyue Zhang, Yudong Liu, Qinsi Wang, Changchun Zhou, Hai “Helen” Li, Yiran Chen
+[![](https://img.shields.io/github/stars/dubcyfor3/Focus?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Focus)
+
+- ``Preprint`` [Optimus: Elastic Decoding for Efficient Diffusion LLM Serving](https://arxiv.org/abs/2605.24832), **Chiyue Wei**, Cong Guo, Bowen Duan, Junyao Zhang, Haoxuan Shan, Yifei Wang, Yangjie Zhou, Hai “Helen” Li, Danyang Zhuo, Yiran Chen
+[![](https://img.shields.io/github/stars/dubcyfor3/Optimus?style=social&label=Code+Stars)](https://github.com/dubcyfor3/Optimus)
+
+- ``ISCA 2026`` [EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture](https://arxiv.org/abs/2605.24144), Bowen Duan, Cong Guo, **Chiyue Wei**, Haoxuan Shan, Yuzhe Fu, Xinhua Chen, Yifan Xu, Ziyue Zhang, Changchun Zhou, Hai Li, Yiran Chen
+[![](https://img.shields.io/github/stars/dbw6/Eva?style=social&label=Code+Stars)](https://github.com/dbw6/Eva)
 
 - ``ISCA 2025`` [Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks](https://arxiv.org/abs/2505.10909), **Chiyue Wei**, Bowen Duan, Cong Guo, Jingyang Zhang, Qingyue Song, Hai Li, Yiran Chen
 
