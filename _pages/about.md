@@ -25,6 +25,7 @@ Chiyue Wei is a Ph.D. student in Electrical and Computer Engineering at Duke Uni
 🔥 News
 ------
 - [2026/06] 🚀 Excited to share our latest work on **Diffusion LLM serving**, *Optimus*: Elastic Decoding for Efficient Diffusion LLM Serving, delivering up to 6.1× throughput gain over autoregressive decoding. Check out the [paper](https://arxiv.org/abs/2605.24832) and [code](https://github.com/dubcyfor3/Optimus).
+- [2026/05] 🎉 Excited to start my research internship in the **AI-System Co-Design** team at <span style="color:#1877F2;">Meta</span>, where I work on **MTIA**, Meta's in-house AI accelerator.
 - [2026/03] 🎉🎉 Our work *EVA*: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture is accepted to **ISCA 2026**! Check out the [paper](https://arxiv.org/abs/2605.24144) and [code](https://github.com/dbw6/Eva).
 - [2025/11] 🎉🎉 Two papers accepted to **HPCA 2026**! One of them features our work *Focus*: A Streaming Concentration Architecture for Efficient Vision-Language Models, now a 🏆 **Best Paper Nominee**! Check out the [paper](https://arxiv.org/abs/2512.14661) and [code](https://github.com/dubcyfor3/Focus).
 - [2025/08] Check out our work DPad, a training-free acceleration method for **Diffusion LLMs**, now available on on [arXiv](https://arxiv.org/abs/2508.14148)!

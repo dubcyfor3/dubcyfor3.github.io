@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 ------
+- 2026.05 - Now, Research Scientist Intern, AI-System Co-Design, supervised by Aravind Sukumaran-Rajam, Yitu Wang, Harsha Jagannati, Meta
+
 - 2025.05 - 2025.08, Deep Learning Intern, Enterprise Products, supervised by Zihao Ye, Pavani Majety, Kushan Ahmadian, Cliff Woolley, NVIDIA
 
 - 2023.09 - Now, Graduate Research Assistant, Department of ECE, supervised by Prof. Yiran Chen, Duke University
