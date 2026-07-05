@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% include seo.html %}
+  <link rel="stylesheet" href="{{ '/assets/css/apple.css' | relative_url }}">
+  {% include head/custom.html %}
+</head>
+<body>
+{% include apple-icons.html %}
+
+{%- assign gh = site.author.github -%}
+{%- assign li = site.author.linkedin -%}
+{%- assign gs = site.author.googlescholar -%}
+{%- assign em = site.author.email -%}
+
+<!-- ===================================================== Nav -->
+<nav class="nav">
+  <div class="nav__inner">
+    <a href="#top" class="nav__brand">{{ site.author.name }}</a>
+    <div class="nav__links nav__desktop">
+      <a href="#news">News</a>
+      <a href="#publications">Publications</a>
+      <a href="#experience">Experience</a>
+      <a href="#services">Service</a>
+    </div>
+    <div class="nav__social">
+      {% if gh %}<a href="https://github.com/{{ gh }}" aria-label="GitHub" target="_blank" rel="noopener">{{ icon_github }}</a>{% endif %}
+      {% if gs %}<a href="{{ gs }}" aria-label="Google Scholar" target="_blank" rel="noopener">{{ icon_scholar }}</a>{% endif %}
+      {% if li %}<a href="https://www.linkedin.com/in/{{ li }}" aria-label="LinkedIn" target="_blank" rel="noopener">{{ icon_linkedin }}</a>{% endif %}
+      {% if em %}<a href="mailto:{{ em }}" aria-label="Email">{{ icon_email }}</a>{% endif %}
+    </div>
+  </div>
+</nav>
+
+<!-- ===================================================== Hero -->
+<header class="hero" id="top">
+  <div class="hero__inner reveal">
+    <img class="hero__avatar" src="{{ '/images/profile.jpg' | relative_url }}" alt="{{ site.author.name }}">
+    <h1 class="hero__name">{{ site.author.name }}</h1>
+    <p class="hero__tagline">Building <span class="accent">efficient AI inference</span> systems<br>through hardware–software co-design</p>
+    <div class="hero__bio">
+      {{ content }}
+    </div>
+    <div class="hero__actions">
+      <a class="btn btn--primary" href="#publications">View publications</a>
+      {% if gs %}<a class="btn btn--ghost" href="{{ gs }}" target="_blank" rel="noopener">Google Scholar</a>{% endif %}
+    </div>
+  </div>
+</header>
+
+<!-- ===================================================== News -->
+<section class="section section--alt" id="news">
+  <div class="wrap">
+    <p class="eyebrow reveal">Latest</p>
+    <h2 class="section__title reveal">News</h2>
+    <div class="news">
+      {% for item in site.data.news %}
+      <div class="news__item reveal">
+        <div class="news__date">{{ item.date }}</div>
+        <div class="news__text">{{ item.text | markdownify }}</div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- ===================================================== Selected Publications -->
+<section class="section" id="publications">
+  <div class="wrap">
+    <p class="eyebrow reveal">Research</p>
+    <h2 class="section__title reveal">Selected Publications</h2>
+    <p class="section__lead reveal">A selection of my work on efficient architectures and systems for artificial intelligence.</p>
+    <div class="pubs">
+      {% assign selected = site.data.publications | where: "selected", true | sort: "order" %}
+      {% for p in selected %}
+      <article class="pub reveal">
+        <div class="pub__tags">
+          <span class="tag">{{ p.venue }} {{ p.year }}</span>
+          {% if p.award %}<span class="tag tag--award">{{ p.award }}</span>{% endif %}
+        </div>
+        <h3 class="pub__title">{{ p.title }}</h3>
+        <p class="pub__authors">{{ p.authors }}</p>
+        <div class="pub__links">
+          {% if p.paper %}<a class="chip" href="{{ p.paper }}" target="_blank" rel="noopener">{{ icon_paper }} Paper</a>{% endif %}
+          {% if p.code %}<a class="chip" href="{{ p.code }}" target="_blank" rel="noopener">{{ icon_code }} Code</a>{% endif %}
+          {% if p.slides %}<a class="chip" href="{{ p.slides | relative_url }}" target="_blank" rel="noopener">{{ icon_slides }} Slides</a>{% endif %}
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+    <div class="section__cta reveal">
+      <a class="btn btn--primary" href="{{ '/publications/' | relative_url }}">View all publications &rarr;</a>
+    </div>
+  </div>
+</section>
+
+<!-- ===================================================== Experience -->
+<section class="section section--alt" id="experience">
+  <div class="wrap">
+    <p class="eyebrow reveal">Journey</p>
+    <h2 class="section__title reveal">Experience</h2>
+    <div class="timeline">
+      {% for job in site.data.experience.work %}
+      <div class="tl reveal">
+        <div class="tl__period">{{ job.period }}</div>
+        <div>
+          <p class="tl__role">{{ job.role }}</p>
+          <p class="tl__org">{{ job.org }}{% if job.location %} <span class="loc">· {{ job.location }}</span>{% endif %}</p>
+          <p class="tl__detail">{{ job.detail }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- ===================================================== Services / Education / Awards -->
+<section class="section" id="services">
+  <div class="wrap">
+    <p class="eyebrow reveal">Beyond research</p>
+    <h2 class="section__title reveal">Service &amp; Recognition</h2>
+    <div class="cols">
+      <div class="panel reveal">
+        <h3>Education</h3>
+        <ul class="edu">
+          {% for e in site.data.experience.education %}
+          <li><span class="deg">{{ e.degree }}</span><span class="meta">{{ e.org }} · {{ e.period }}</span></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="panel reveal">
+        <h3>Honors &amp; Awards</h3>
+        <div class="awards">
+          {% for a in site.data.services.awards %}
+          <div class="award"><span class="award__name">{{ a.name }}</span><span class="award__year">{{ a.year }}</span></div>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="panel reveal">
+        <h3>Academic Service</h3>
+        <ul>
+          {% for s in site.data.services.academic %}<li>{{ s }}</li>{% endfor %}
+        </ul>
+      </div>
+      <div class="panel reveal">
+        <h3>Teaching</h3>
+        <ul>
+          {% for t in site.data.services.teaching %}<li>{{ t }}</li>{% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================================================== Footer -->
+<footer class="foot">
+  <div class="foot__social">
+    {% if gh %}<a href="https://github.com/{{ gh }}" aria-label="GitHub" target="_blank" rel="noopener">{{ icon_github }}</a>{% endif %}
+    {% if gs %}<a href="{{ gs }}" aria-label="Google Scholar" target="_blank" rel="noopener">{{ icon_scholar }}</a>{% endif %}
+    {% if li %}<a href="https://www.linkedin.com/in/{{ li }}" aria-label="LinkedIn" target="_blank" rel="noopener">{{ icon_linkedin }}</a>{% endif %}
+    {% if em %}<a href="mailto:{{ em }}" aria-label="Email">{{ icon_email }}</a>{% endif %}
+  </div>
+  <p>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }} · {{ site.author.employer }}, {{ site.author.location }}</p>
+</footer>
+
+<script src="{{ '/assets/js/apple.js' | relative_url }}"></script>
+</body>
+</html>

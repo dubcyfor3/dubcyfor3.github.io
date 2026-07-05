@@ -1,0 +1,18 @@
+awards:
+  - name: "HPCA 2026 Best Paper Nominee"
+    year: "2026"
+  - name: "DAC 2025 Young Fellow"
+    year: "2025"
+  - name: "HPCA 2025 Travel Grant"
+    year: "2025"
+
+academic:
+  - "Journal Reviewer, IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI)"
+  - "Journal Reviewer, ACM Journal on Emerging Technologies in Computing Systems (JETC)"
+  - "Artifact Evaluation Committee, ASPLOS 2025"
+  - "Artifact Evaluation Committee, HPCA 2025"
+  - "Artifact Evaluation Committee, OSDI 2025"
+  - "Artifact Evaluation Committee, USENIX ATC 2025"
+
+teaching:
+  - "Teaching Assistant, Duke ECE 661 — Computer Engineering Machine Learning and Deep Neural Nets, Fall 2024"

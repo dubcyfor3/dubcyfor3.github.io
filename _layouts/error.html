@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% include seo.html %}
+  <link rel="stylesheet" href="{{ '/assets/css/apple.css' | relative_url }}">
+  {% include head/custom.html %}
+</head>
+<body>
+<nav class="nav">
+  <div class="nav__inner">
+    <a href="{{ '/' | relative_url }}" class="nav__brand">{{ site.author.name }}</a>
+  </div>
+</nav>
+<header class="hero" id="top">
+  <div class="hero__inner">
+    <h1 class="hero__name">{{ page.title | default: "Not Found" }}</h1>
+    <div class="hero__bio">{{ content }}</div>
+    <div class="hero__actions">
+      <a class="btn btn--primary" href="{{ '/' | relative_url }}">Back to home</a>
+    </div>
+  </div>
+</header>
+</body>
+</html>

@@ -1,0 +1,36 @@
+# News items, newest first. `text` is rendered as Markdown.
+- date: "Jun 2026"
+  text: "Excited to share our latest work on **Diffusion LLM serving**, *Optimus: Elastic Decoding for Efficient Diffusion LLM Serving*, delivering up to 6.1× throughput gain over autoregressive decoding. Check out the [paper](https://arxiv.org/abs/2605.24832) and [code](https://github.com/dubcyfor3/Optimus)."
+
+- date: "May 2026"
+  text: "Started my research internship in the **AI-System Co-Design** team at **Meta**, where I work on **MTIA**, Meta's in-house AI accelerator."
+
+- date: "Mar 2026"
+  text: "Our work *EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture* is accepted to **ISCA 2026**! Check out the [paper](https://arxiv.org/abs/2605.24144) and [code](https://github.com/dbw6/Eva)."
+
+- date: "Nov 2025"
+  text: "Two papers accepted to **HPCA 2026**! One features our work *Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models*, now a 🏆 **Best Paper Nominee**! Check out the [paper](https://arxiv.org/abs/2512.14661) and [code](https://github.com/dubcyfor3/Focus)."
+
+- date: "Aug 2025"
+  text: "Check out our work *DPad*, a training-free acceleration method for **Diffusion LLMs**, now available on [arXiv](https://arxiv.org/abs/2508.14148)!"
+
+- date: "Aug 2025"
+  text: "Wrapped up my internship at **NVIDIA**, where I worked on the **FlashInfer** project — developing high-performance, customizable attention kernels with **CuTe DSL**, optimized for Blackwell GPUs."
+
+- date: "Jun 2025"
+  text: "Honored to be named a **DAC 2025 Young Fellow**."
+
+- date: "Jun 2025"
+  text: "Our works *Phi*, *Transitive Array*, and *Ecco* were presented at **ISCA 2025** — check out the slides for [Phi](http://dubcyfor3.github.io/files/Phi_ISCA2025.pdf)."
+
+- date: "May 2025"
+  text: "Started my summer internship at **NVIDIA**, focusing on **LLM inference framework optimization** within the Deep Learning Frameworks team."
+
+- date: "Mar 2025"
+  text: "**Three** papers accepted by **ISCA 2025**! Topics include acceleration for Spiking Neural Networks, General Matrix Multiplications, and Large Language Models."
+
+- date: "Mar 2025"
+  text: "Presented *Prosperity* at **HPCA 2025** in Las Vegas! Check out the [slides](http://dubcyfor3.github.io/files/Prosperity_HPCA2025.pdf) and [video](https://drive.google.com/file/d/1V4n_Hv-1amCCZpIMWTX0venCL3rlbRPF/view?usp=sharing)."
+
+- date: "Nov 2024"
+  text: "Our paper *Prosperity: Accelerating Spiking Neural Networks via Product Sparsity* is accepted by **HPCA 2025**."

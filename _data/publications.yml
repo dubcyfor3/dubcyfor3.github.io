@@ -1,0 +1,122 @@
+# Single source of truth for publications.
+#   selected: shown in the "Selected Publications" section on the home page
+#   order:    display order within the Selected section (lower = first)
+#   date:     used to sort the full publications list (newest first)
+#   authors:  HTML allowed; wrap your own name in <strong>...</strong>
+#   award:    optional badge (e.g. Best Paper Nominee)
+
+- title: "Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models"
+  authors: "<strong>Chiyue Wei</strong>, Cong Guo, Junyao Zhang, Haoxuan Shan, Yifan Xu, Ziyue Zhang, Yudong Liu, Qinsi Wang, Changchun Zhou, Hai “Helen” Li, Yiran Chen"
+  venue: "HPCA"
+  year: "2026"
+  date: 2026-02-01
+  award: "🏆 Best Paper Nominee"
+  paper: "https://arxiv.org/abs/2512.14661"
+  code: "https://github.com/dubcyfor3/Focus"
+  slides: "/files/Focus_HPCA2026.pdf"
+  selected: true
+  order: 1
+
+- title: "Optimus: Elastic Decoding for Efficient Diffusion LLM Serving"
+  authors: "<strong>Chiyue Wei</strong>, Cong Guo, Bowen Duan, Junyao Zhang, Haoxuan Shan, Yifei Wang, Yangjie Zhou, Hai “Helen” Li, Danyang Zhuo, Yiran Chen"
+  venue: "Preprint"
+  year: "2026"
+  date: 2026-06-15
+  paper: "https://arxiv.org/abs/2605.24832"
+  code: "https://github.com/dubcyfor3/Optimus"
+  selected: true
+  order: 2
+
+- title: "EVA: Accelerating LLM Decoding via an Efficient Vector Quantization Architecture"
+  authors: "Bowen Duan, Cong Guo, <strong>Chiyue Wei</strong>, Haoxuan Shan, Yuzhe Fu, Xinhua Chen, Yifan Xu, Ziyue Zhang, Changchun Zhou, Hai Li, Yiran Chen"
+  venue: "ISCA"
+  year: "2026"
+  date: 2026-06-20
+  paper: "https://arxiv.org/abs/2605.24144"
+  code: "https://github.com/dbw6/Eva"
+  selected: true
+  order: 3
+
+- title: "Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks"
+  authors: "<strong>Chiyue Wei</strong>, Bowen Duan, Cong Guo, Jingyang Zhang, Qingyue Song, Hai Li, Yiran Chen"
+  venue: "ISCA"
+  year: "2025"
+  date: 2025-06-21
+  paper: "https://arxiv.org/abs/2505.10909"
+  slides: "/files/Phi_ISCA2025.pdf"
+  selected: true
+  order: 4
+
+- title: "Transitive Array: An Efficient GEMM Accelerator with Result Reuse"
+  authors: "Cong Guo, <strong>Chiyue Wei</strong>, Jiaming Tang, Bowen Duan, Song Han, Hai Li, Yiran Chen"
+  venue: "ISCA"
+  year: "2025"
+  date: 2025-06-21
+  paper: "https://arxiv.org/abs/2504.16339"
+  selected: true
+  order: 5
+
+- title: "Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression"
+  authors: "Feng Cheng, Cong Guo, <strong>Chiyue Wei</strong>, Junyao Zhang, Changchun Zhou, Edward Hanson, Jiaqi Zhang, Xiaoxiao Liu, Hai Li, Yiran Chen"
+  venue: "ISCA"
+  year: "2025"
+  date: 2025-06-21
+  paper: "https://arxiv.org/abs/2505.06901"
+  selected: true
+  order: 6
+
+- title: "Prosperity: Accelerating Spiking Neural Networks via Product Sparsity"
+  authors: "<strong>Chiyue Wei</strong>, Cong Guo, Feng Cheng, Shiyu Li, Hao Yang, Hai Li, Yiran Chen"
+  venue: "HPCA"
+  year: "2025"
+  date: 2025-03-03
+  paper: "https://arxiv.org/abs/2503.03379"
+  code: "https://github.com/dubcyfor3/Prosperity"
+  slides: "/files/Prosperity_HPCA2025.pdf"
+  selected: true
+  order: 7
+
+- title: "CLAP: Locality Aware and Parallel Triangle Counting with Content Addressable Memory"
+  authors: "Tianyu Fu*, <strong>Chiyue Wei</strong>*, Zhenhua Zhu, Shang Yang, Zhongming Yu, Guohao Dai, Huazhong Yang, Yu Wang"
+  venue: "DATE"
+  year: "2023"
+  date: 2023-04-17
+  paper: "https://ieeexplore.ieee.org/abstract/document/10136997"
+  code: "https://github.com/thu-nics/CLAP-triangle-counting"
+  selected: true
+  order: 8
+
+- title: "DIMMining: Pruning-Efficient and Parallel Graph Mining on Near-Memory-Computing"
+  authors: "Guohao Dai, Zhenhua Zhu, Tianyu Fu, <strong>Chiyue Wei</strong>, Bangyan Wang, Xiangyu Li, Yuan Xie, Huazhong Yang, Yu Wang"
+  venue: "ISCA"
+  year: "2022"
+  date: 2022-06-18
+  paper: "https://dl.acm.org/doi/abs/10.1145/3470496.3527388"
+  selected: true
+  order: 9
+
+# --- Additional publications (full list only) ---
+
+- title: "A Phase-Adaptive Architecture for Efficient PD Disaggregated LLM Serving"
+  authors: "Cong Guo*, <strong>Chiyue Wei</strong>*, Haoxuan Shan, Bowen Duan, Yintao He, Hai Li, Yiran Chen"
+  venue: "Preprint"
+  year: "2026"
+  date: 2026-01-15
+  selected: false
+
+- title: "DeSCo: Towards Generalizable and Scalable Deep Subgraph Counting"
+  authors: "Tianyu Fu, <strong>Chiyue Wei</strong>, Yu Wang, Rex Ying"
+  venue: "WSDM"
+  year: "2024"
+  date: 2024-03-04
+  paper: "https://arxiv.org/abs/2308.08198"
+  code: "https://github.com/fuvty/DeSCo"
+  selected: false
+
+- title: "A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models"
+  authors: "Cong Guo, Feng Cheng, Zhixu Du, James Kiessling, Jonathan Ku, Shiyu Li, Ziru Li, Mingyuan Ma, Tergel Molom-Ochir, Benjamin Morris, Haoxuan Shan, Jingwei Sun, Yitu Wang, <strong>Chiyue Wei</strong>, Xueying Wu, Yuhao Wu, Hao Frank Yang, Jingyang Zhang, Junyao Zhang, Qilin Zheng, Guanglei Zhou, Hai “Helen” Li, Yiran Chen"
+  venue: "IEEE CAS Magazine"
+  year: "2025"
+  date: 2025-01-01
+  paper: "https://arxiv.org/abs/2410.07265"
+  selected: false

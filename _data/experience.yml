@@ -1,0 +1,40 @@
+# Experience & education timelines, newest first.
+work:
+  - period: "May 2026 – Present"
+    role: "Research Scientist Intern, AI-System Co-Design"
+    org: "Meta"
+    location: "Menlo Park, CA"
+    detail: "Architectural design for the next-gen Meta Training and Inference Accelerator (MTIA) targeting LLM inference on a wafer-scale system. Mentors: Aravind Sukumaran-Rajam, Yitu Wang; Manager: Harsha Jagannati."
+
+  - period: "May 2025 – Aug 2025"
+    role: "Deep Learning Intern"
+    org: "NVIDIA"
+    location: "Santa Clara, CA"
+    detail: "Built high-performance, customizable attention kernels for Blackwell GPUs using CUTLASS / CuTe DSL, improving inference efficiency in open-source serving stacks (vLLM, FlashInfer). Mentors: Zihao Ye, Pavani Majety; Managers: Cliff Woolley, Kushan Ahmadian."
+
+  - period: "Aug 2023 – Present"
+    role: "Graduate Research Assistant"
+    org: "Duke University"
+    location: "Durham, NC"
+    detail: "Efficient inference architectures and systems for artificial intelligence. Advisor: Prof. Yiran Chen."
+
+  - period: "Jun 2022 – Jan 2023"
+    role: "Research Assistant"
+    org: "UC Santa Barbara"
+    location: "Santa Barbara, CA"
+    detail: "Systolic-array-friendly design for sparse LU factorization. Advisor: Prof. Yuan Xie."
+
+  - period: "Sep 2021 – Jun 2023"
+    role: "Research Assistant"
+    org: "Tsinghua University"
+    location: "Beijing, China"
+    detail: "Near-memory-computing architectures for graph mining and GNN-based subgraph counting. Advisor: Prof. Yu Wang."
+
+education:
+  - period: "Aug 2023 – May 2028 (expected)"
+    degree: "Ph.D. in Electrical and Computer Engineering"
+    org: "Duke University"
+
+  - period: "Aug 2019 – Jun 2023"
+    degree: "B.Eng. in Electronic Engineering"
+    org: "Tsinghua University"

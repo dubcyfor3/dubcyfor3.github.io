@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% include seo.html %}
+  <link rel="stylesheet" href="{{ '/assets/css/apple.css' | relative_url }}">
+  {% include head/custom.html %}
+</head>
+<body>
+{% include apple-icons.html %}
+
+<nav class="nav">
+  <div class="nav__inner">
+    <a href="{{ '/' | relative_url }}" class="nav__brand">{{ site.author.name }}</a>
+    <div class="nav__links nav__desktop">
+      <a href="{{ '/#news' | relative_url }}">News</a>
+      <a href="{{ '/publications/' | relative_url }}">Publications</a>
+      <a href="{{ '/#experience' | relative_url }}">Experience</a>
+      <a href="{{ '/#services' | relative_url }}">Service</a>
+    </div>
+    <div class="nav__social">
+      {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}" aria-label="GitHub" target="_blank" rel="noopener">{{ icon_github }}</a>{% endif %}
+      {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}" aria-label="Google Scholar" target="_blank" rel="noopener">{{ icon_scholar }}</a>{% endif %}
+      {% if site.author.linkedin %}<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" aria-label="LinkedIn" target="_blank" rel="noopener">{{ icon_linkedin }}</a>{% endif %}
+    </div>
+  </div>
+</nav>
+
+<main class="pubpage">
+  <div class="pubpage__head reveal">
+    <p class="eyebrow">Research</p>
+    <h1 class="section__title">Publications</h1>
+    <p class="section__lead">
+      {% if site.author.googlescholar %}Also available on <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a>. {% endif %}(* denotes equal contribution.)
+    </p>
+  </div>
+
+  {% assign all = site.data.publications | sort: "date" | reverse %}
+  {% assign groups = all | group_by: "year" %}
+  {% for g in groups %}
+  <div class="pubgroup">
+    <h2 class="pubgroup__year reveal">{{ g.name }}</h2>
+    {% for p in g.items %}
+    <div class="pubrow reveal">
+      <div class="pubrow__venue">{{ p.venue }}</div>
+      <div>
+        <h3 class="pubrow__title">{{ p.title }}</h3>
+        <p class="pubrow__authors">{{ p.authors }}</p>
+        <div class="pub__links">
+          {% if p.paper %}<a class="chip" href="{{ p.paper }}" target="_blank" rel="noopener">{{ icon_paper }} Paper</a>{% endif %}
+          {% if p.code %}<a class="chip" href="{{ p.code }}" target="_blank" rel="noopener">{{ icon_code }} Code</a>{% endif %}
+          {% if p.slides %}<a class="chip" href="{{ p.slides | relative_url }}" target="_blank" rel="noopener">{{ icon_slides }} Slides</a>{% endif %}
+          {% if p.award %}<span class="tag tag--award">{{ p.award }}</span>{% endif %}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {% endfor %}
+
+  <div class="section__cta reveal">
+    <a class="btn btn--ghost" href="{{ '/' | relative_url }}">&larr; Back to home</a>
+  </div>
+</main>
+
+<footer class="foot">
+  <p>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }} · {{ site.author.employer }}, {{ site.author.location }}</p>
+</footer>
+
+<script src="{{ '/assets/js/apple.js' | relative_url }}"></script>
+</body>
+</html>
